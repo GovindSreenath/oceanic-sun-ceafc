@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: ''
 title: 'Memoirs, a free minimalist Jekyll blogging theme with modern design'
 permalink: /about
 comments: false
